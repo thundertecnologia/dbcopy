@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mysql2sqlite": {
+      "commandName": "Project",
+      "commandLineArgs": "copy -s \"server=dbinstancehmlqx3.cipqymnyygfv.us-west-2.rds.amazonaws.com;uid=thundersglobal;pwd=thundersglobal;database=thundersglobal;\" -d \"Data Source=c:\\\\temp\\\\awk\\\\teste_global.db\" -L -v"
+    }
+  }
+}
